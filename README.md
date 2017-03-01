@@ -1,4 +1,4 @@
-<a href="https://github.com/CommonAccord/CmA_F_License-Patent-Exclusive-NIH">https://github.com/CommonAccord/CmA_F_License-Patent-Exclusive-NIH</a>
+<a href="https://github.com/CommonAccord/NIH-License-Patent-Exclusive-CmA">https://github.com/CommonAccord/NIH-License-Patent-Exclusive-CmA</a>
 
 US National Institute of Health model form Exclusive Patent License.
 
@@ -7,7 +7,7 @@ A National Institute of Health model Exclusive Patent License Agreement.  There 
 
 DEPENDENCIES:
 
-CmA_F_Agt-Form
+Agt-Form-CmA
 
 CmA_Z
 
